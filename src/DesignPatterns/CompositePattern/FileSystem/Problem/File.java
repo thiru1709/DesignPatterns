@@ -1,4 +1,4 @@
-package DesignPatterns.CompositePattern.Problem;
+package DesignPatterns.CompositePattern.FileSystem.Problem;
 
 public class File {
 

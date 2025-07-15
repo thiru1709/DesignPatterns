@@ -1,4 +1,4 @@
-package DesignPatterns.CompositePattern.Solution;
+package DesignPatterns.CompositePattern.FileSystem.Solution;
 
 import java.util.ArrayList;
 import java.util.List;
