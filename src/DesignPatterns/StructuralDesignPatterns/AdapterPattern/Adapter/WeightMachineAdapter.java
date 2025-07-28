@@ -1,4 +1,4 @@
-package DesignPatterns.AdapterPattern.Adapter;
+package DesignPatterns.StructuralDesignPatterns.AdapterPattern.Adapter;
 
 public interface WeightMachineAdapter {
 

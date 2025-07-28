@@ -1,4 +1,4 @@
-package DesignPatterns.AdapterPattern.Adaptee;
+package DesignPatterns.StructuralDesignPatterns.AdapterPattern.Adaptee;
 
 public class WeightmachineForBabies implements WeightMachine{
 
