@@ -1,6 +1,6 @@
-package DesignPatterns.Observerpattern.Observer;
+package DesignPatterns.BehaviouralDesignPattern.ObserverPattern.Observerpattern.Observer;
 
-import DesignPatterns.Observerpattern.Observable.StockObservable;
+import DesignPatterns.BehaviouralDesignPattern.ObserverPattern.Observerpattern.Observable.StockObservable;
 
 public class EmailNotificationAlertObserver implements NotificationAlertObserver{
 

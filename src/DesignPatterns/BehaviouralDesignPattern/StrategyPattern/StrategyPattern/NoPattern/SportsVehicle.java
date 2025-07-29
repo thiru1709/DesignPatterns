@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern.NoPattern;
+package DesignPatterns.BehaviouralDesignPattern.StrategyPattern.StrategyPattern.NoPattern;
 
 public class SportsVehicle extends Vehicle{
 
